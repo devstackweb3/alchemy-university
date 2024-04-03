@@ -35,4 +35,5 @@ bool conditionIsMet;
 | 0x01  | ADD  | Addition operation | 3 |
 | 0x02  | MUL  | Multiplication operation | 5 |
 | 0x03 | SUB  | Substraction operation | 3 |
+
 https://ethereum.org/en/developers/docs/evm/opcodes/
