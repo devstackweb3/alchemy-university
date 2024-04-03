@@ -42,3 +42,14 @@ bool conditionIsMet;
 | 0x03 | SUB  | Substraction operation | 3 |
 
 https://ethereum.org/en/developers/docs/evm/opcodes/
+
+### Key Takeaways
+-  Contracts are compiled to create bytecode
+-  The **data** field contains your creation bytecode
+-  the **to** field is left blank to deploy a contract
+-  Your contract will have an address, balance and runtime bytecode
+
+#### Smart Contract Structure
+| to | from | data |
+| ------------- | ------------- | ------------- |
+| no mention (specifies intention to smart contract consideration) | contract's address creator  | bytecode of smart contract | 
