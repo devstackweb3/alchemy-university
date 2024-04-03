@@ -53,3 +53,6 @@ https://ethereum.org/en/developers/docs/evm/opcodes/
 | to | from | data |
 | ------------- | ------------- | ------------- |
 | no mention (specifies intention to smart contract consideration) | contract's address creator  | bytecode of smart contract | 
+
+### Transaction Life Cycle
+
