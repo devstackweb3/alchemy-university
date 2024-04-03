@@ -49,7 +49,7 @@ https://ethereum.org/en/developers/docs/evm/opcodes/
 -  the **to** field is left blank to deploy a contract
 -  Your contract will have an address, balance and runtime bytecode
 
-#### Smart Contract Structure
+#### Transaction Structure (Smart Contract deployment intention)
 | to | from | data |
 | ------------- | ------------- | ------------- |
 | no mention (specifies intention to smart contract consideration) | contract's address creator  | bytecode of smart contract | 
